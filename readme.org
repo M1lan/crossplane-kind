@@ -1,2 +1,7 @@
 *  crossplane-kind
 crossplane running locally on kind cluster
+
+
+* prerequisites
+- kubectl
+- kind
